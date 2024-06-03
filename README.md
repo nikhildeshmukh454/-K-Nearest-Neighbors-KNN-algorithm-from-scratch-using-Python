@@ -1,2 +1,2 @@
 # -K-Nearest-Neighbors-KNN-algorithm-from-scratch-using-Python
-This project aims to provide a deep understanding of KNN's underlying mechanics, including data preprocessing, distance calculation, neighbor selection, and prediction.
+The objective of this project is to implement the K-Nearest Neighbors (KNN) algorithm from scratch using Python. KNN is a simple yet powerful supervised machine learning algorithm used for classification and regression tasks. This project aims to provide a deep understanding of KNN's underlying mechanics, including data preprocessing, distance calculation, neighbor selection, and prediction
